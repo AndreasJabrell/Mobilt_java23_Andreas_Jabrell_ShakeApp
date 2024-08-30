@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lektion2</string>
+    <string name="lang">ENGLISH</string>
+
+    <string-array name="system">
+        <item>earth</item>
+        <item>@string/lang</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
